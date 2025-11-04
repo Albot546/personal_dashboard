@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="container">
         <div class="login-container">
             <div class="login-header">
-                <h1>Login to your Dashboard</h1>
+                <h1>Login to your main account dashboard</h1>
                 <p>GET Access your personal dashboard</p>
             </div>
 
