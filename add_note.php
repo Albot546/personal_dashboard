@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <div class="container">
         <header>
-            <h1>Add New Note</h1>
+            <h1>Add pesan baru</h1>
             <a href="index.php" class="btn btn-outline">← Back to Dashboard</a>
         </header>
 
