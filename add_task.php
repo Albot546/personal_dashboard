@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <div class="container">
         <header>
-            <h1>Add New Task</h1>
+            <h1>Add New tugas</h1>
             <a href="index.php" class="btn btn-outline">← Back to Dashboard</a>
         </header>
 
